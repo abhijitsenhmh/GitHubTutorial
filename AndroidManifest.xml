@@ -14,7 +14,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
-<-- Added a junk comment --> 
+<-- Added a junk comment 2 --> 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.android.basiccontactables"
     android:versionCode="1"
